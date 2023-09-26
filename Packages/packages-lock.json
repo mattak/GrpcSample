@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.cysharp.yetanotherhttphandler": {
+      "version": "https://github.com/Cysharp/YetAnotherHttpHandler.git?path=src/YetAnotherHttpHandler",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "923ed825239d648f91d65e3788f7b091971625c1"
+    },
     "com.unity.burst": {
       "version": "1.8.8",
       "depth": 1,
